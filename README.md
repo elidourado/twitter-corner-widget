@@ -1,6 +1,6 @@
 # Animated Twitter corner widget
 
-This is the animated corner widget I use on [elidourado.com](https://elidourado.com) to link to my Twitter account. On hover it displays a pleasinf flapping motion.
+This is the animated corner widget I use on [elidourado.com](https://elidourado.com) to link to my Twitter account. On hover it displays a pleasing flapping motion.
 
 ## Usage
 
