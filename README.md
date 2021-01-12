@@ -4,7 +4,7 @@ This is the animated corner widget I use on [elidourado.com](https://elidourado.
 
 ## Usage
 
-Usage is simple. Put a script tag in your HTML wherever you want the added elements to go. Include a data attribute indicating your username.
+Usage is simple. Put a script tag in your HTML body wherever you want the added elements to go. Include a data attribute indicating your username.
 
 Example:
 
