@@ -15,3 +15,7 @@ Example:
 You can add a `data-gtag` attribute if you would like to include Google Analytics tracking for hover and click events on the widget.
 
 `<script src="twitter-widget.js" data-username="elidourado" data-gtag></script>`
+
+By default, the widget uses `#1da1f2`, Twitter-brand blue, as its color. You can change it to match your brand using the `data-color` attribute.
+
+`<script src="twitter-widget.js" data-username="elidourado" data-color="orange"></script>`
